@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM205: Spectroscopy"
+course_description: "An detailed introduction of the theory, instrumentation, application of spectroscopic techniques. Topics include mass spectrometry, ultraviolet-visible (UV-Vis) spectroscopy, infrared (IR) spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Infrared Spectroscopy** <span id="3"></span> 
 *Infrared (IR) spectroscopy is a* *spectroscopic technique* *that deals
 with the* *infrared* *region of the* *electromagnetic spectrum.  The

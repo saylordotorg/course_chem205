@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM205: Spectroscopy"
+course_description: "An detailed introduction of the theory, instrumentation, application of spectroscopic techniques. Topics include mass spectrometry, ultraviolet-visible (UV-Vis) spectroscopy, infrared (IR) spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation's CHEM205 Final Exam**
     Link: The Saylor Foundation's [CHEM205 Final

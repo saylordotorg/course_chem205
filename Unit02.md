@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM205: Spectroscopy"
+course_description: "An detailed introduction of the theory, instrumentation, application of spectroscopic techniques. Topics include mass spectrometry, ultraviolet-visible (UV-Vis) spectroscopy, infrared (IR) spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Ultraviolet-Visible Spectroscopy** <span id="2"></span> 
 *Ultraviolet-visible spectroscopy (UV-Vis) refers to* *absorption
 spectroscopy* *in the ultraviolet-visibleregion of the electromagnetic

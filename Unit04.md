@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM205: Spectroscopy"
+course_description: "An detailed introduction of the theory, instrumentation, application of spectroscopic techniques. Topics include mass spectrometry, ultraviolet-visible (UV-Vis) spectroscopy, infrared (IR) spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Nuclear Magnetic Resonance Spectroscopy** <span
 id="4"></span> 
 *Nuclear magnetic resonance spectroscopy (NMR spectroscopy) is a

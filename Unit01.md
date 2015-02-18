@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM205: Spectroscopy"
+course_description: "An detailed introduction of the theory, instrumentation, application of spectroscopic techniques. Topics include mass spectrometry, ultraviolet-visible (UV-Vis) spectroscopy, infrared (IR) spectroscopy, and nuclear magnetic resonance (NMR) spectroscopy."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Mass Spectrometry** <span id="1"></span> 
 *Mass spectrometry* *(MS) is an analytical technique that is used to
 determine the masses of particles for the elucidation of the chemical
