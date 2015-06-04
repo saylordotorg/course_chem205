@@ -146,4 +146,10 @@ hours to complete. Perhaps you can sit down with your calendar and
 decide to complete Subunit 1.1 (a total of 5 hours) on Monday night,
 Subunit 1.2 (a total of 4 hours) on Tuesday night, etc.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/chem205/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem205/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem205/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem205/Unit04/)
+- [Unit 5](https://legacy.saylor.org/chem205/Unit05/)
