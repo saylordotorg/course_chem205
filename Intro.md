@@ -161,3 +161,4 @@ Subunit 1.2 (a total of 4 hours) on Tuesday night, etc.
 - [Unit 3](https://legacy.saylor.org/chem205/Unit03/)
 - [Unit 4](https://legacy.saylor.org/chem205/Unit04/)
 - [Unit 5](https://legacy.saylor.org/chem205/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM205/CHEM205-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM205/CHEM205-FinalExam-Answers.html)
